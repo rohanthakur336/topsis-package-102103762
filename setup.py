@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'topsis-102103762',         # How you named your package folder (MyLib)
-  packages = ['topsis-102103762'],   # Chose the same as "name"
+  name = 'topsis_102103762',         # How you named your package folder (MyLib)
+  packages = ['topsis_102103762'],   # Chose the same as "name"
   version = '0.1',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'TYPE YOUR DESCRIPTION HERE',   # Give a short description about your library
